@@ -1,0 +1,64 @@
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+/*!!!!!!!! DO NOT MODIFY !!!!!!!!!*/
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+
+/* 
+	THEME NAME: Silhouette (LIGHT THEME)
+	AUTHOR: OnePageTheme
+	WEBSITE: http://OnePageTheme.com
+	VERSION: 1.2 | 20121126 
+	LICENSE: GPL License
+*/
+
+
+/* general */
+body { background:#f7f7f7; color:#888888; }
+h1, h2, h3, h4, h5, h6 {  }
+h1 { color: #545454; }
+h2,h3 { color: #9c9c9c; }
+p { color:#888888; }
+
+a { color: #ccb129; }
+a:visited {  }
+a:hover { color: #545454; }
+a:focus {  }
+
+
+/* HEADER */
+header { background:#2a2a2a; }
+.logo {  }
+.logo img {  }
+.logo a {  }
+nav {  }
+nav ul {  }
+nav ul li {  }
+nav ul li a { color: #aaaaaa; }
+nav ul li a:hover { color:#dec02c; }
+nav ul li:first-child {  } 
+a.galleryItem { color:#666666; }
+
+
+/* SECTION */
+section {  }
+section ul {  }
+section ul li { list-style-image: url('../images/light/list-light.png'); }
+section ul li a {  }
+a.gallery:hover img {  }
+a.gallery img {  }
+ul.contact { color:#888888; }
+ul.contact li {  }
+ul.contact li.address { background: url('../images/light/icons/address-icon.png') 0 0 no-repeat; }
+ul.contact li.phone { background: url('../images/light/icons/phone-icon.png') 0 0 no-repeat; }
+ul.contact li.email { background: url('../images/light/icons/email-icon.png') 0 0 no-repeat; }
+ul.contact li.facebook { background: url('../images/light/icons/facebook-icon.png') 0 0 no-repeat; }
+ul.contact li.twitter { background: url('../images/light/icons/twitter-icon.png') 0 0 no-repeat; }
+ul.contact li.flickr { background: url('../images/light/icons/flickr-icon.png') 0 0 no-repeat; }
+ul.contact li a { color:#888888; }
+ul.contact li a:hover { color: #545454; }
+
+#fancybox-overlay { background-color: #fff !important; } /* To override default black color overlay */
+
+
+/* FOOTER */
+footer {  }
+footer p {  }

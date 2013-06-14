@@ -1,0 +1,48 @@
+/* USE THIS FOR YOUR CUSTOM THEME STYLING
+/////////////////////////////////////////////// */
+
+/* ============================== */
+/* ! Layout for desktop version   */
+/* ============================== */
+
+	body {
+		
+	}
+	
+
+/* ======================================== */
+/* ! Layout for tablet version, e.g. iPad   */
+/* ======================================== */
+
+@media handheld, only screen and (max-width: 767px) {
+
+	body {
+		
+	}
+
+}
+
+
+/* ========================================== */
+/* ! Layout for mobile version, e.g. iPhone   */
+/* ========================================== */
+
+@media only screen and (max-device-width: 480px) {
+
+	/* phone browser css here */
+	
+}
+
+
+/* ========================================== */
+/* ! Provide higher res assets for iPhone 4   */
+/* ========================================== */
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) { 
+
+/*	.logo {
+		background: url(logo2x.jpg) no-repeat;
+		background-size: 212px 303px;
+	}*/
+
+}
